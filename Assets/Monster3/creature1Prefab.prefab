@@ -234,6 +234,7 @@ GameObject:
   m_Component:
   - component: {fileID: 451992}
   - component: {fileID: 9526084}
+  - component: {fileID: 111245274047583976}
   m_Layer: 0
   m_Name: creature1Prefab
   m_TagString: Untagged
@@ -2170,3 +2171,17 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 129030}
   m_IsPrefabParent: 1
+--- !u!111 &111245274047583976
+Animation:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 129030}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0

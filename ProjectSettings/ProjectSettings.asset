@@ -467,7 +467,8 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   cloudProjectId: f21c3118-be10-4a9c-9258-643d76202809
   projectName: DungeonHunter
   organizationId: tyranicangel
